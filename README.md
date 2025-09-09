@@ -1,4 +1,4 @@
-# Task 5: Auto Tagging Support Tickets Using LLM
+# Auto Tagging Support Tickets Using LLM
 
 ## Objective
 Automatically tag customer support tickets into predefined categories using a Large Language Model (LLM). The goal is to leverage zero-shot and few-shot learning techniques to classify free-text tickets and improve tagging accuracy.
